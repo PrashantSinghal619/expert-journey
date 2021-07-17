@@ -1,6 +1,6 @@
 {
   "name": "expert-journey",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "Continuous delivery puppet demo",
   "main": "index.js",
   "scripts": {
