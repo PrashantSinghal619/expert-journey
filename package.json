@@ -1,0 +1,25 @@
+{
+  "name": "expert-journey",
+  "version": "1.0.0",
+  "description": "Continuous delivery puppet demo",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/PrashantSinghal619/expert-journey.git"
+  },
+  "keywords": [
+    "CD",
+    "experiment",
+    "github-actions",
+    "automated-deployments"
+  ],
+  "author": "Prashant Singhal",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/PrashantSinghal619/expert-journey/issues"
+  },
+  "homepage": "https://github.com/PrashantSinghal619/expert-journey#readme"
+}
