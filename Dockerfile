@@ -9,7 +9,7 @@ WORKDIR /usr/src/expert-journey
 COPY package*.json ./
 
 # If you are building your code for production, do a clean install of your dependencies
-RUN npm ci --only=production
+# RUN npm ci --only=production
 
 # Bundle app source
 COPY . .
